@@ -76,6 +76,9 @@
   A few of the advantages of the newly refactored code was that it led to much faster compile times as opposed to the original code, also that each new code block was relatively seperate from one another and easy to grasp. This could lead to the code being troubleshooted easier or edited in the future for multiple stocks or other purposes with ease. The only drawback I encountered with refactoring the code was to truly understand the base code and how to go about editing it, the process took me quite to finally grasp. An advantage of the original code was that it felt more natural upon its creation, to say that it felt like a rough draft that could do the processes asked of it. A disandvatage was that it was not entirely to nice to look at afterwards and I can see where it would have benefited from another pair of eyes, as probably the code was not as polished and easy to understandat a glance. The run times of the code were also bit long to compile.
 
 #### The refactored code run times
-    
-    
+
+##### Run-time for the 2018 data on new refactored macro
+![2018speed](stock_resources/2018speed.png)
                 
+##### Run-time for the 2017 data on new refactored macro
+1[2017speed](stock_resources/2017speed.png)
