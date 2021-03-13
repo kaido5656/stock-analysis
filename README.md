@@ -78,7 +78,7 @@
 #### The refactored code run times
 
 ##### Run-time for the 2018 data on new refactored macro
-![2018speed](stock_resources/2018speed.png)
+![2018speed](stocks_resources/2018speed.png)
                 
 ##### Run-time for the 2017 data on new refactored macro
-1[2017speed](stock_resources/2017speed.png)
+![2017speed](stocks_resources/2017speed.png)
